@@ -12,4 +12,3 @@ Feature: Login Test
     Examples:
       | username             | password       |
       | qascript20@gmail.com | Qascript@123   |
-      | qascript20@gmail.com | Qascript@123   |
